@@ -10,3 +10,6 @@
 [submodule "fr"]
 	path = fr
 	url = ./fr
+[submodule "it"]
+	path = it
+	url = ./it
