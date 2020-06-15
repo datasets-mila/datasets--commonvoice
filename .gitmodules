@@ -4,3 +4,6 @@
 [submodule "en"]
 	path = en
 	url = ./en
+[submodule "es"]
+	path = es
+	url = ./es
